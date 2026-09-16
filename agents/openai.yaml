@@ -1,0 +1,16 @@
+interface:
+  display_name: app store naming
+  short_description: Research, generate, validate, and optimize App Store app names,
+    subtitles, and keyword strategy. Use when the user wants to name or rename an
+    iOS/iPadOS/macOS app, check whether a candidate name appears usable, compare naming
+    options, or optimize naming for ASO, brand, localization, scope, and App Store
+    metadata compliance.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
